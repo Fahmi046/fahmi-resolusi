@@ -2,3 +2,4 @@ Fahmi Resolusi
 - belajar git hub
 - membuat company profile
 - mengupload ke git hub
+- edit file resosusi

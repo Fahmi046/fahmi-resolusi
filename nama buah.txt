@@ -2,4 +2,6 @@
   - merah
   - hijau
 2 jeruk
+  - bali
+  - purut
 3 anggur

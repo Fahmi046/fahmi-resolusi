@@ -1,7 +1,10 @@
 1 apel
   - merah
   - hijau
+  - cina
 2 jeruk
   - bali
   - purut
+  - manis
 3 anggur
+4 durian

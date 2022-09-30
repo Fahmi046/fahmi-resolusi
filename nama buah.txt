@@ -1,11 +1,12 @@
 1 apel
   - merah
   - hijau
-  - kecil
+  - cina
 2 jeruk
   - bali
   - purut
-  - masam
+  - manis
 3 anggur
-4 rambai
+- hitam
+4 durian
 5 rambutan
